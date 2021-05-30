@@ -7,7 +7,6 @@
               "variable"
               ],
   "correctAnswerIndex": 0,
-  "feedback": "var is the keyword use to declare a new variable."
   },
   {
   "question": "What's the keyword for declaring a new constant?",
@@ -17,7 +16,6 @@
               "con"
               ],
   "correctAnswerIndex": 1,
-  "feedback": "let is the keyword use to declare a new constant."
   },
   {
   "question": "What's the key difference between a class and a structure?",
@@ -27,7 +25,6 @@
               "Classes can have methods while Structures can't"
               ],
   "correctAnswerIndex": 1,
-  "feedback": "Classes are reference types and get passed around by reference. Structures are value types that get copied when passed around."
   },
   {
   "question": "What is a Type method?",
@@ -37,6 +34,5 @@
               "A method that can be called on the Type directly"
               ],
   "correctAnswerIndex": 2,
-  "feedback": "Type methods use the static keyword in their declaration and can be called directly on the Class or Structure."
   }
 ]
